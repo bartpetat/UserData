@@ -198,6 +198,8 @@ NLD S152Zaa S153 S151
 NLD RingApe N344_E ArnWeg
 NLD RingAlk A9_W N9/N245
 NLD RingAlk HelWeg A9_E
+NLD RingAlp N11/N207_W 8(N11)
+NLD RingAlp KorWeg N11/N207_E
 NLD RingBre BacRuebWeg_E BacRuebWeg_W
 NLD RingDen SchWeg S102
 NLD RingEin TilWeg_W CedLaan
